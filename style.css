@@ -1,0 +1,30 @@
+main {
+  padding-top: 500px;
+  padding-bottom: 300px;
+}
+
+.d-demo__section {
+  padding-top: 250px;
+  padding-bottom: 100px;
+}
+
+.d-demo__main {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #91d3f0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.d-demo__section--bg {
+  background-color: white;
+}
+
+.d-demo__elem {
+  width: 100px;
+  height: 100px;
+  background-color: #fcdbc3;
+  border-radius: 50%;
+  margin-left: 10px;
+}/*# sourceMappingURL=style.css.map */
